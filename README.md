@@ -27,4 +27,4 @@ A simple **React** to-do list application that allows users to manage tasks inte
 
 1. Clone the repository:
    ```bash
-   git clone <your-repo-url>
+   git clone <https://github.com/YesterianusKaladana/to_do_list_app_with_react.git>
